@@ -1,0 +1,7 @@
+C:\Users\knemt\Desktop\программы колледжа\ОАП\HomeTaskList\bin\Debug\HomeTaskList.exe.config
+C:\Users\knemt\Desktop\программы колледжа\ОАП\HomeTaskList\bin\Debug\HomeTaskList.exe
+C:\Users\knemt\Desktop\программы колледжа\ОАП\HomeTaskList\bin\Debug\HomeTaskList.pdb
+C:\Users\knemt\Desktop\программы колледжа\ОАП\HomeTaskList\obj\Debug\HomeTaskList.csproj.AssemblyReference.cache
+C:\Users\knemt\Desktop\программы колледжа\ОАП\HomeTaskList\obj\Debug\HomeTaskList.csproj.CoreCompileInputs.cache
+C:\Users\knemt\Desktop\программы колледжа\ОАП\HomeTaskList\obj\Debug\HomeTaskList.exe
+C:\Users\knemt\Desktop\программы колледжа\ОАП\HomeTaskList\obj\Debug\HomeTaskList.pdb
